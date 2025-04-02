@@ -6,6 +6,7 @@ How to run BallOut:
 
 1. Open FinalBuild folder
 2. Open BallOut folder
-3. It might bring up Microsoft Defender SmartScreen, so click "more info" and then run anyway
-4. The game will load, the main menu screen might be smaller depending on the screen size you're using but click start to play the game
-5. The controls are: WASD to move and 'F' to throw
+3. Run the "BallOut.exe" file
+4. It might bring up Microsoft Defender SmartScreen, so click "more info" and then run anyway
+5. The game will load, the main menu screen might be smaller depending on the screen size you're using but click start to play the game
+6. The controls are: WASD to move and 'F' to throw
