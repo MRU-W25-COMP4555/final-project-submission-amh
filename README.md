@@ -2,7 +2,7 @@
 
 How to run BallOut:
 
-*NOTE* the .exe can only be ran on a windows PC, no Mac... sorry
+*__NOTE:__* the .exe can only be ran on a windows PC, no Mac... sorry
 
 1. Open FinalBuild folder
 2. Open BallOut folder
